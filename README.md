@@ -3,14 +3,14 @@
 Cinema Paradiso, with a frontend built in React & Redux and a backend built in Django API.
 #### Live Demo
 This App uses a Replit free plan, so I am afraid that it takes time to load the pages.
-[Check out FRONTEND LIVE DEMO here!!] (https://cinema-paradise-frontend.philipesiape1.repl.co/)   
-[Check out BACKEND LIVE DEMO here!!] (https://cinema-paradise-backend.philipesiape1.repl.co/)  
+[Check out FRONTEND LIVE DEMO here!!](https://cinema-paradise-frontend.philipesiape1.repl.co/)   
+[Check out BACKEND LIVE DEMO here!!](https://cinema-paradise-backend.philipesiape1.repl.co/)  
 ### Tech used
 * Frontend : React & Redux
 * Backend : Django
 ### How to Install
 Git Clone
-git clone https://github.com/cnye825/Cinema-Paradise-Main.git
+git clone https://github.com/PhilipEsiape/Cinema-paradise.git
 Backend setting
 cd backend
 Python -m venv env
